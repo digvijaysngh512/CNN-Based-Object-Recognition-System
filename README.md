@@ -55,6 +55,13 @@ Autonomous Vehicles: Object and obstacle classification
 
 E-Commerce & Online Marketing: Product image categorization and visual search
 
+## Conclusion
+Deployed a ResNet50-based computer vision model on CIFAR-10 (50K images) achieving ~94% accuracy for multi-class image classification.
+
+Engineered a production-ready ML pipeline using TensorFlow/Keras with data preprocessing and train–test validation.
+
+Enhanced model robustness using transfer learning, batch normalization, and dropout (0.5).
+
 Healthcare: Medical image classification
 
 Surveillance & Security: Object identification in video streams
